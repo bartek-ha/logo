@@ -1,11 +1,29 @@
 # Imkervereniging Delft e.o. – Official Logo Repository
 
-
 <p align="center">
-  <img src="assets/png/Logo_rgb_blue_transparant_1024x1024.png" width="300"><br>
-  PNG preview — 1024 × 1024 pixels
+  <img src="assets/svg/Logo_Imkervereniging_Delft.svg" width="100%"><br>
+  SVG preview - width 100%
 </p>
 
+<p align="center">
+  <img src="assets/png/Logo_rgb_blue_transparant_512x512.png" width="512"><br>
+  PNG preview — 512 × 512 pixels
+</p>
+
+<p align="center">
+  <img src="assets/png/Logo_rgb_blue_transparant_256x256.png" width="256"><br>
+  PNG preview — 256 × 256 pixels
+</p>
+
+<p align="center">
+  <img src="assets/png/Logo_rgb_blue_transparant_64x64.png" width="64"><br>
+  PNG preview — 64 × 64 pixels
+</p>
+
+<p align="center">
+  <img src="assets/jpg/logo_inverted_512x512.png" width="512"><br>
+  JPG preview — inverted logo 512 × 512 pixels
+</p>
 ---
 
 # Nederlands
