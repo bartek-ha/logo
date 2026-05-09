@@ -27,7 +27,6 @@ Het centrale ontwerpidee is gebaseerd op een klassieke **zegel / embleem**, als 
 - Geschikt voor:
   - drukwerk
   - merchandise
-  - bewegwijzering
   - digitaal gebruik
 
 ---
