@@ -26,6 +26,11 @@
 </p>
 ---
 
+## Keywords: 
+logo, svg, branding, beekeeping, imkervereniging, delft, vector-logo, graphic-design, netherlands
+
+---
+
 # Nederlands
 
 ## Over het Project
