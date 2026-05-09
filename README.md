@@ -1,5 +1,11 @@
 # Imkervereniging Delft e.o. – Official Logo Repository
 
+
+<p align="center">
+  <img src="assets/png/Logo_rgb_blue_transparant_1024x1024.png" width="300"><br>
+  PNG preview — 1024 × 1024 pixels
+</p>
+
 ---
 
 # Nederlands
