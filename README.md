@@ -59,7 +59,6 @@ Het centrale ontwerpidee is gebaseerd op een klassieke **zegel / embleem**, als 
     /pdf
 /source
     /coreldraw
-    /exports
 README.md
 LICENSE
 ```
@@ -123,7 +122,6 @@ The main visual concept is inspired by a traditional **seal/emblem**, symbolizin
     /pdf
 /source
     /coreldraw
-    /exports
 README.md
 LICENSE
 ```
