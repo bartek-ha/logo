@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/jpg/logo_inverted_512x512.png" width="512"><br>
+  <img src="assets/jpg/logo_inverted_512x512.jpg" width="512"><br>
   JPG preview — inverted logo 512 × 512 pixels
 </p>
 ---
