@@ -54,9 +54,10 @@ Het centrale ontwerpidee is gebaseerd op een klassieke **zegel / embleem**, als 
 
 ```text
 /assets
-    /svg
-    /png
+    /jpg
     /pdf
+    /png
+    /svg
 /source
     /coreldraw
 README.md
@@ -117,9 +118,10 @@ The main visual concept is inspired by a traditional **seal/emblem**, symbolizin
 
 ```text
 /assets
-    /svg
-    /png
+    /jpg
     /pdf
+    /png
+    /svg
 /source
     /coreldraw
 README.md
