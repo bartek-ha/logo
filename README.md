@@ -83,8 +83,10 @@ Het centrale ontwerpidee is gebaseerd op een klassieke **zegel / embleem**, als 
     /svg
 /source
     /coreldraw
-README.md
 LICENSE
+logo_blue.svg — officieel blauw vectorlogo (29 kB)
+README.md
+
 ```
 
 ---
@@ -147,6 +149,7 @@ The main visual concept is inspired by a traditional **seal/emblem**, symbolizin
     /svg
 /source
     /coreldraw
-README.md
 LICENSE
+logo_blue.svg — official blue vector logo  (29 kB)
+README.md
 ```
