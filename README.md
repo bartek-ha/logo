@@ -31,6 +31,12 @@ logo, svg, branding, beekeeping, imkervereniging, delft, vector-logo, graphic-de
 
 ---
 
+## Logo Examples
+
+[Open logo examples page](https://bartek-ha.github.io/logo/index.html)
+
+---
+
 # Nederlands
 
 ## Over het Project
