@@ -78,6 +78,7 @@ Het centrale ontwerpidee is gebaseerd op een klassieke **zegel / embleem**, als 
 LICENSE
 logo_blue.svg — officieel blauw vectorlogo (29 kB)
 README.md
+index.html - webpage with logo examples
 
 ```
 
@@ -144,4 +145,6 @@ The main visual concept is inspired by a traditional **seal/emblem**, symbolizin
 LICENSE
 logo_blue.svg — official blue vector logo  (29 kB)
 README.md
+index.html - webpage with logo examples
+
 ```
